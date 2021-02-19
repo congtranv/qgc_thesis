@@ -1,2 +1,8 @@
-# qgc_thesis
-simple qground control 
+# qgc thesis
+simple MAVLink-based QGround Control
+
+## required
+- Intellij IDE
+- MAVSDK
+- Spring boot
+
